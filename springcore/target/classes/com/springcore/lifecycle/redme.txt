@@ -1,0 +1,4 @@
+There are three ways to implement lifecycle in a program...
+ 1- Simple xml expression, Ex- Samosa class
+ 2- Implement Interfaces,  Ex- Pepsi class
+ 3- Implement Annotation,  Ex- Example class
